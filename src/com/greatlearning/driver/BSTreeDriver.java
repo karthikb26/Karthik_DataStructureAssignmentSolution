@@ -2,7 +2,7 @@ package com.greatlearning.driver;
 import com.greatlearning.model.BSTree;
 import com.greatlearning.model.Node;
 
-public class Driver_Q2 {
+public class BSTreeDriver {
     public static void main(String[] args) {
 
     	BSTree bstree = new BSTree();

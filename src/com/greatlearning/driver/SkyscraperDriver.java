@@ -1,7 +1,7 @@
 package com.greatlearning.driver;
 import com.greatlearning.service.SkyScraper;
 
-public class Driver_Q1 {
+public class SkyscraperDriver {
 
 	public static void main(String[] args) {
 		SkyScraper ss = new SkyScraper();
